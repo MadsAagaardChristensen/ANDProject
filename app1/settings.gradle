@@ -1,0 +1,2 @@
+rootProject.name='ExamAND1'
+include ':app'

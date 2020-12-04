@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ExamAND1</string>
+    <string name="hello_blank_fragment" />
+    <string name="pref_default_display_name" />
+    <string name="pref_title_display_name" />
+    <string name="pref_title_add_friends_to_messages" />
+    <string name="default_gallery_storage" />
+    <string name="key_gallery_name" />
+    <string name="title_gallery_storage" />
+    <string name="key_upload_over_wifi" />
+    <string name="summary_upload_over_wifi" />
+    <string name="title_auto_upload" />
+    <string name="title_upload_quality" />
+    <string name="key_upload_quality" />
+    <string name="summary_upload_video_quality" />
+    <string name="pref_title_notifications" />
+    <string name="notifications_new_message" />
+    <string name="title_new_notification_sound" />
+    <string name="key_vibrate" />
+    <string name="summary_vibrate" />
+    <string name="title_vibrate" />
+    <string name="pref_header_about" />
+    <string name="app_version" />
+    <string name="title_version" />
+    <string name="url_faq" />
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="switch_title" />
+    <string name="switch_summary" />
+    <string name="pref_description_social_recommendations" />
+    <string name="pref_title_social_recommendations" />
+    <string name="send_feedback" />
+    <string name="version" />
+</resources>
